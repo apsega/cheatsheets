@@ -46,3 +46,9 @@ tc qdisc add dev eth0 root netem loss 0.3% 25%
 ```
 
 [Back to main](README.md)
+
+## Simulated low quality network
+
+```bash
+tc qdisc add dev eth0 root netem delay 100ms 10ms distribution normal reorder 2% 10% loss 1%
+```
