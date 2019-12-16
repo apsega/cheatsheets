@@ -2,7 +2,7 @@
 A personal list of Linux related tips, tricks, and reminders.
 
 * [alertmanager](alertmanager.md)
-* [aws_keepalived_eip][https://gist.github.com/apsega/4288fbceb4f5958ef0e40349e8b9934b]
+* [aws_keepalived_eip](https://gist.github.com/apsega/4288fbceb4f5958ef0e40349e8b9934b)
 * [awk](awk.md)
 * [date](date.md)
 * [find](find.md)
