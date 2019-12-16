@@ -98,4 +98,4 @@ hpssacli ctrl slot=3 array A modify cacheratio=10/90
 for (( i = 2; i <= 18; i++ )); do hpssacli ctrl slot=1 logicaldrive $i modify arrayaccelerator=disable; done
 ```
 
-[Back to main](../README.md)
+[Back to main](README.md)

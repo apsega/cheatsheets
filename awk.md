@@ -13,3 +13,4 @@ Program is ;-separated pattern-action statements.
 `$0` is whole line, `$1`, `$2`, ... are fields separated by `FS` (by default,
 whitespace).
 
+[Back to main](README.md)

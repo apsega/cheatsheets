@@ -9,5 +9,6 @@ A personal list of Linux related tips, tricks, and reminders.
 * [kubernetes](kubernetes.md)
 * [prometheus](prometheus.md)
 * [ssh](ssh.md)
+* [tc](tc.md)
 * [tcpdump](tcpdump.md)
 * [virsh](virsh.md)

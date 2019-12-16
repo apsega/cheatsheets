@@ -48,4 +48,4 @@ curl -XPOST $url -d "[{
 echo ""
 ```
 
-[Back to main](../README.md)
+[Back to main](README.md)

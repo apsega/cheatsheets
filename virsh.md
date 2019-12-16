@@ -74,4 +74,4 @@ p, d, n, p, 1, 2048, max, w
 xfs_growfs /dev/vdb1
 ```
 
-[Back to main](../README.md)
+[Back to main](README.md)

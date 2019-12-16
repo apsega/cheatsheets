@@ -13,4 +13,4 @@ curl  -X PUT \
 curl -X GET http://localhost:8001/apis/extensions/v1beta1/namespaces/myproject/replicasets/myfirstreplicaset/status
 ```
 
-[Back to main](../README.md)
+[Back to main](README.md)
