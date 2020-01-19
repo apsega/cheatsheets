@@ -9,6 +9,7 @@ A personal list of Linux related tips, tricks, and reminders.
 * [find](find.md)
 * [hpssacli](hpssacli.md)
 * [kubernetes](kubernetes.md)
+* [lsof](lsof.md)
 * [prometheus](prometheus.md)
 * [ssh](ssh.md)
 * [tc](tc.md)
